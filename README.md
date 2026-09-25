@@ -92,7 +92,7 @@ City Hotel has a higher booking volume than Resort Hotel in every month, while R
 
 ### Booking Demand Heatmap
 
-![Monthly Hotel Booking Demand](hotel_readme_assets/booking_heatmap.png)
+![Monthly Hotel Booking Demand](visuals/booking_heatmap.png)
 
 ## Cancellation Analysis
 
@@ -109,7 +109,7 @@ City Hotel has a higher cancellation rate than Resort Hotel in every month.
 
 ### Monthly Cancellation Rate
 
-![Monthly Cancellation Rate](hotel_readme_assets/cancellation_rate.png)
+![Monthly Cancellation Rate](visuals/cancellation_rate.png)
 
 ### Lead Time Comparison
 
@@ -143,7 +143,7 @@ Portugal is the largest source market with **48,590 bookings** and a cancellatio
 
 ### Top 10 Countries Visualization
 
-![Top 10 Countries by Total Bookings](hotel_readme_assets/top_10_countries.png)
+![Top 10 Countries by Total Bookings](visuals/top_10_countries.png)
 
 ## Market Segment Analysis
 
@@ -158,7 +158,7 @@ Portugal is the largest source market with **48,590 bookings** and a cancellatio
 | Aviation | 237 | 52 | 21.94% |
 | Undefined | 2 | 2 | 100.00% |
 
-Online TA is the largest market segment with **56,477 bookings**, approximately **47.3%** of all bookings.
+Online TA is the largest market segment with **56,477 bookings**, approximately **47.3%** of bookings.
 
 Groups has the highest cancellation rate among the major segments at **61.06%**.
 
@@ -166,7 +166,7 @@ Complementary has the lowest observed cancellation rate at **13.06%**, although 
 
 ### Market Segment Visualization
 
-![Booking Distribution by Market Segment](hotel_readme_assets/market_segment.png)
+![Booking Distribution by Market Segment](visuals/market_segment.png)
 
 ## Average Daily Rate (ADR) Analysis
 
@@ -178,7 +178,7 @@ A dual-axis chart was used because City Hotel and Resort Hotel have different AD
 
 ### ADR Visualization
 
-![Average Daily Rate by Month and Hotel Type](hotel_readme_assets/adr_by_month.png)
+![Average Daily Rate by Month and Hotel Type](visuals/adr_by_month.png)
 
 ## Bonus Analysis
 
@@ -259,7 +259,7 @@ hotel-booking-analysis/
 ├── hotel_bookings.csv
 ├── hotel_bookings_cleaned.csv
 │
-└── hotel_readme_assets/
+└── visuals/
     ├── booking_heatmap.png
     ├── cancellation_rate.png
     ├── top_10_countries.png
